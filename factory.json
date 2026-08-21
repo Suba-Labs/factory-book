@@ -5,7 +5,7 @@
     {"id": "atticus", "glow": false},
     {"id": "edna", "glow": false},
     {"id": "lucius", "glow": true},
-    {"id": "bailey", "glow": false},
+    {"id": "bailey", "glow": true},
     {"id": "erin", "glow": false},
     {"id": "luisa", "glow": true}
   ]
