@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 19:55 PHT",
+  "generated_at": "2026-08-24 19:57 PHT",
   "desks": [
     {"id": "honey", "glow": true},
     {"id": "atticus", "glow": false},
@@ -8,7 +8,7 @@
     {"id": "bailey", "glow": false},
     {"id": "nova", "glow": false},
     {"id": "luisa", "glow": false},
-    {"id": "quinn", "glow": true}
+    {"id": "quinn", "glow": false}
   ],
   "metrics": {
     "agents_online": 1,
@@ -71,7 +71,7 @@
       "who": "Luisa",
       "text": "Factory cards show Linear / PR / live URL links",
       "id": "FACTORY-BOOK-LINKS",
-      "station": "In Progress",
+      "station": "Done",
       "live": "https://sf.subalabs.ai"
     }
   ]
