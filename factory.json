@@ -1,12 +1,79 @@
 {
+  "generated_at": "2026-08-24 11:47 PHT",
   "desks": [
-    {"id": "honey", "glow": true},
-    {"id": "atticus", "glow": false},
-    {"id": "edna", "glow": true},
-    {"id": "kit", "glow": true},
-    {"id": "bailey", "glow": true},
-    {"id": "nova", "glow": false},
-    {"id": "luisa", "glow": true},
-    {"id": "quinn", "glow": false}
+    {
+      "id": "honey",
+      "glow": true
+    },
+    {
+      "id": "atticus",
+      "glow": false
+    },
+    {
+      "id": "edna",
+      "glow": true
+    },
+    {
+      "id": "kit",
+      "glow": true
+    },
+    {
+      "id": "bailey",
+      "glow": true
+    },
+    {
+      "id": "nova",
+      "glow": false
+    },
+    {
+      "id": "luisa",
+      "glow": true
+    },
+    {
+      "id": "quinn",
+      "glow": false
+    }
+  ],
+  "metrics": {
+    "agents_online": 5,
+    "tickets_in_flight": 6
+  },
+  "feed": [
+    {
+      "who": "Luisa",
+      "text": "Glow updates from the book without a zip",
+      "id": "FACTORY-LIVE-GLOW",
+      "station": "Testing"
+    },
+    {
+      "who": "Honey",
+      "text": "Requirements-owner sign-off rule",
+      "id": "HHP-1222",
+      "station": "Testing"
+    },
+    {
+      "who": "Honey",
+      "text": "TC appointment-confirm: poll uses direction +…",
+      "id": "HHP-1226",
+      "station": "Testing"
+    },
+    {
+      "who": "Atticus",
+      "text": "Publish Adlaw v0.1.104 Mac+Windows",
+      "id": "ADLAW-104",
+      "station": "In Progress"
+    },
+    {
+      "who": "Atticus",
+      "text": "Instagram @bohol.ai on Adlaw public surface",
+      "id": "BOHOL-IG",
+      "station": "In Progress"
+    },
+    {
+      "who": "Luisa",
+      "text": "Make sf.subalabs.ai feel like Aleiah Grok Bot…",
+      "id": "FACTORY-ALEIAH",
+      "station": "In Progress"
+    }
   ]
 }
