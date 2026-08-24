@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 11:47 PHT",
+  "generated_at": "2026-08-24 19:46 PHT",
   "desks": [
     {
       "id": "honey",
@@ -19,7 +19,7 @@
     },
     {
       "id": "bailey",
-      "glow": true
+      "glow": false
     },
     {
       "id": "nova",
@@ -43,7 +43,7 @@
       "who": "Luisa",
       "text": "Glow updates from the book without a zip",
       "id": "FACTORY-LIVE-GLOW",
-      "station": "Testing"
+      "station": "Done"
     },
     {
       "who": "Honey",
@@ -73,7 +73,7 @@
       "who": "Luisa",
       "text": "Make sf.subalabs.ai feel like Aleiah Grok Bot…",
       "id": "FACTORY-ALEIAH",
-      "station": "In Progress"
+      "station": "Testing"
     }
   ]
 }
