@@ -1,51 +1,27 @@
 {
-  "generated_at": "2026-08-24 20:06 PHT",
+  "generated_at": "2026-08-24 21:02 PHT",
   "desks": [
     {"id": "honey", "glow": true},
-    {"id": "atticus", "glow": false},
+    {"id": "atticus", "glow": true},
     {"id": "edna", "glow": false},
     {"id": "kit", "glow": false},
-    {"id": "bailey", "glow": false},
     {"id": "nova", "glow": false},
+    {"id": "bailey", "glow": false},
     {"id": "luisa", "glow": false},
     {"id": "quinn", "glow": false},
     {"id": "mirabel", "glow": false}
   ],
   "metrics": {
-    "agents_online": 1,
-    "tickets_in_flight": 9
+    "agents_online": 2,
+    "tickets_in_flight": 8
   },
   "feed": [
     {
       "who": "Honey",
-      "text": "Requirements-owner sign-off rule",
-      "id": "HHP-1222",
-      "station": "Testing",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1222/rule-requirements-owner-sign-off-before-claiming-customer-alignment",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1216"
-    },
-    {
-      "who": "Honey",
-      "text": "TC appointment-confirm: poll uses direction +…",
-      "id": "HHP-1226",
-      "station": "Testing",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1226/tc-appointment-confirm-poll-uses-message-direction-replylatencyms-vs",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1221"
-    },
-    {
-      "who": "Crew",
-      "text": "TC Caref↔directory clinician name match — shi…",
-      "id": "HHP-1235",
-      "station": "Testing",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1235/tc-carefdirectory-clinician-name-match-initials-titles-aliases-ship-to",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1230"
-    },
-    {
-      "who": "Crew",
-      "text": "PR #1234 lab agent tree → main for :latest pa…",
-      "id": "HHP-PR-1234",
-      "station": "Testing",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1234"
+      "text": "Utilization Amount & points tab (HH task rate table)",
+      "id": "HHP-1242",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1242/utilization-amount-and-points-dashboard-tab-hh-task-rate-table"
     },
     {
       "who": "Atticus",
@@ -62,18 +38,41 @@
       "live": "https://www.instagram.com/bohol.ai/"
     },
     {
-      "who": "Luisa",
-      "text": "Make sf.subalabs.ai feel like Aleiah Grok Bot…",
-      "id": "FACTORY-ALEIAH",
-      "station": "In Progress",
-      "live": "https://sf.subalabs.ai"
+      "who": "Honey",
+      "text": "PR #1234 lab agent tree → main for :latest parity",
+      "id": "HHP-PR-1234",
+      "station": "Testing",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1234"
     },
     {
-      "who": "Luisa",
-      "text": "Factory cards show Linear / PR / live URL links",
-      "id": "FACTORY-BOOK-LINKS",
-      "station": "Done",
-      "live": "https://sf.subalabs.ai"
+      "who": "Honey",
+      "text": "TC Caref↔directory clinician name match — ship to l…",
+      "id": "HHP-1235",
+      "station": "Testing",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1235/tc-carefdirectory-clinician-name-match-initials-titles-aliases-ship-to",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1230"
+    },
+    {
+      "who": "Honey",
+      "text": "Requirements-owner sign-off rule",
+      "id": "HHP-1222",
+      "station": "Testing",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1222/rule-requirements-owner-sign-off-before-claiming-customer-alignment",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1216"
+    },
+    {
+      "who": "Honey",
+      "text": "TC appointment-confirm: poll uses direction + reply…",
+      "id": "HHP-1226",
+      "station": "Testing",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1226/tc-appointment-confirm-poll-uses-message-direction-replylatencyms-vs",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1221"
+    },
+    {
+      "who": "Mirabel",
+      "text": "Positioning pass: done-for-you vs DIY for Visayas o…",
+      "id": "SITE-POSITIONING-VISAYAS",
+      "station": "Blocked"
     }
   ]
 }
