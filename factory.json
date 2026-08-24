@@ -1,12 +1,12 @@
 {
   "desks": [
-    {"id": "pepper", "glow": false},
     {"id": "honey", "glow": true},
     {"id": "atticus", "glow": false},
-    {"id": "edna", "glow": false},
-    {"id": "lucius", "glow": true},
+    {"id": "edna", "glow": true},
+    {"id": "kit", "glow": true},
     {"id": "bailey", "glow": true},
     {"id": "erin", "glow": false},
-    {"id": "luisa", "glow": true}
+    {"id": "luisa", "glow": true},
+    {"id": "quinn", "glow": false}
   ]
 }
