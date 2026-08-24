@@ -1,38 +1,14 @@
 {
-  "generated_at": "2026-08-24 19:52 PHT",
+  "generated_at": "2026-08-24 19:55 PHT",
   "desks": [
-    {
-      "id": "honey",
-      "glow": true
-    },
-    {
-      "id": "atticus",
-      "glow": false
-    },
-    {
-      "id": "edna",
-      "glow": false
-    },
-    {
-      "id": "kit",
-      "glow": false
-    },
-    {
-      "id": "bailey",
-      "glow": false
-    },
-    {
-      "id": "nova",
-      "glow": false
-    },
-    {
-      "id": "luisa",
-      "glow": false
-    },
-    {
-      "id": "quinn",
-      "glow": false
-    }
+    {"id": "honey", "glow": true},
+    {"id": "atticus", "glow": false},
+    {"id": "edna", "glow": false},
+    {"id": "kit", "glow": false},
+    {"id": "bailey", "glow": false},
+    {"id": "nova", "glow": false},
+    {"id": "luisa", "glow": false},
+    {"id": "quinn", "glow": true}
   ],
   "metrics": {
     "agents_online": 1,
