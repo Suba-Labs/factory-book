@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 21:02 PHT",
+  "generated_at": "2026-08-25 09:03 PHT",
   "desks": [
     {"id": "honey", "glow": true},
     {"id": "atticus", "glow": true},
@@ -9,20 +9,13 @@
     {"id": "bailey", "glow": false},
     {"id": "luisa", "glow": false},
     {"id": "quinn", "glow": false},
-    {"id": "mirabel", "glow": false}
+    {"id": "mirabel", "glow": true}
   ],
   "metrics": {
-    "agents_online": 2,
-    "tickets_in_flight": 8
+    "agents_online": 3,
+    "tickets_in_flight": 12
   },
   "feed": [
-    {
-      "who": "Honey",
-      "text": "Utilization Amount & points tab (HH task rate table)",
-      "id": "HHP-1242",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1242/utilization-amount-and-points-dashboard-tab-hh-task-rate-table"
-    },
     {
       "who": "Atticus",
       "text": "Publish Adlaw v0.1.104 Mac+Windows",
@@ -39,14 +32,20 @@
     },
     {
       "who": "Honey",
-      "text": "PR #1234 lab agent tree → main for :latest parity",
-      "id": "HHP-PR-1234",
-      "station": "Testing",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1234"
+      "text": "Utilization Amount & points tab (HH task rate table)",
+      "id": "HHP-1242",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1242/utilization-amount-and-points-dashboard-tab-hh-task-rate-table"
+    },
+    {
+      "who": "Mirabel",
+      "text": "Home door: Book sole primary CTA",
+      "id": "SITE-HOME-DOOR-SHIP",
+      "station": "Testing"
     },
     {
       "who": "Honey",
-      "text": "TC Caref↔directory clinician name match — ship to l…",
+      "text": "TC Caref\u2194directory clinician name match \u2014 ship to l\u2026",
       "id": "HHP-1235",
       "station": "Testing",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1235/tc-carefdirectory-clinician-name-match-initials-titles-aliases-ship-to",
@@ -62,7 +61,7 @@
     },
     {
       "who": "Honey",
-      "text": "TC appointment-confirm: poll uses direction + reply…",
+      "text": "TC appointment-confirm: poll uses direction + reply\u2026",
       "id": "HHP-1226",
       "station": "Testing",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1226/tc-appointment-confirm-poll-uses-message-direction-replylatencyms-vs",
@@ -70,9 +69,36 @@
     },
     {
       "who": "Mirabel",
-      "text": "Positioning pass: done-for-you vs DIY for Visayas o…",
+      "text": "UTM capture/store on lead form (until Pixel)",
+      "id": "SITE-UTM",
+      "station": "Blocked"
+    },
+    {
+      "who": "Mirabel",
+      "text": "Fix /grok-bot-setup/ trailing-slash 404",
+      "id": "SITE-TRAILING-SLASH",
+      "station": "Blocked",
+      "live": "https://subalabs.ai/"
+    },
+    {
+      "who": "Mirabel",
+      "text": "Positioning pass: done-for-you vs DIY for Visayas o\u2026",
       "id": "SITE-POSITIONING-VISAYAS",
       "station": "Blocked"
+    },
+    {
+      "who": "Mirabel",
+      "text": "Careers page lives on Amplify only",
+      "id": "SITE-CAREERS-GIT",
+      "station": "Blocked",
+      "live": "https://subalabs.ai/"
+    },
+    {
+      "who": "Mirabel",
+      "text": "Case studies copy: bridge + labels (Edna draft)",
+      "id": "SITE-CASE-STUDIES-SHIP",
+      "station": "Blocked",
+      "live": "https://subalabs.ai/case-studies"
     }
   ]
 }
