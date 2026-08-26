@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 09:03 PHT",
+  "generated_at": "2026-08-26 09:03 PHT",
   "desks": [
     {"id": "honey", "glow": true},
     {"id": "atticus", "glow": true},
@@ -9,11 +9,11 @@
     {"id": "bailey", "glow": false},
     {"id": "luisa", "glow": false},
     {"id": "quinn", "glow": false},
-    {"id": "mirabel", "glow": true}
+    {"id": "mirabel", "glow": false}
   ],
   "metrics": {
-    "agents_online": 3,
-    "tickets_in_flight": 12
+    "agents_online": 2,
+    "tickets_in_flight": 15
   },
   "feed": [
     {
@@ -32,16 +32,33 @@
     },
     {
       "who": "Honey",
+      "text": "RC invoice Patient Name shows ciphertext (SUB-1252)",
+      "id": "HHP-1252",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1252/bug-revenue-cycle-shows-encrypted-patientname-blob-instead-of-name"
+    },
+    {
+      "who": "Honey",
+      "text": "TC ack wrong patient (SUB-1251)",
+      "id": "HHP-1251",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1251/bug-tc-visit-reminder-noted-ack-names-wrong-patient-patient-a-confirm",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1240"
+    },
+    {
+      "who": "Honey",
+      "text": "fix TC ack patient bind (SUB-1251)",
+      "id": "HHP-PR-1240",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1251/bug-tc-visit-reminder-noted-ack-names-wrong-patient-patient-a-confirm",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1240"
+    },
+    {
+      "who": "Honey",
       "text": "Utilization Amount & points tab (HH task rate table)",
       "id": "HHP-1242",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1242/utilization-amount-and-points-dashboard-tab-hh-task-rate-table"
-    },
-    {
-      "who": "Mirabel",
-      "text": "Home door: Book sole primary CTA",
-      "id": "SITE-HOME-DOOR-SHIP",
-      "station": "Testing"
     },
     {
       "who": "Honey",
@@ -69,14 +86,8 @@
     },
     {
       "who": "Mirabel",
-      "text": "UTM capture/store on lead form (until Pixel)",
-      "id": "SITE-UTM",
-      "station": "Blocked"
-    },
-    {
-      "who": "Mirabel",
-      "text": "Fix /grok-bot-setup/ trailing-slash 404",
-      "id": "SITE-TRAILING-SLASH",
+      "text": "Careers page lives on Amplify only",
+      "id": "SITE-CAREERS-GIT",
       "station": "Blocked",
       "live": "https://subalabs.ai/"
     },
@@ -88,17 +99,10 @@
     },
     {
       "who": "Mirabel",
-      "text": "Careers page lives on Amplify only",
-      "id": "SITE-CAREERS-GIT",
+      "text": "Fix /grok-bot-setup/ trailing-slash 404",
+      "id": "SITE-TRAILING-SLASH",
       "station": "Blocked",
       "live": "https://subalabs.ai/"
-    },
-    {
-      "who": "Mirabel",
-      "text": "Case studies copy: bridge + labels (Edna draft)",
-      "id": "SITE-CASE-STUDIES-SHIP",
-      "station": "Blocked",
-      "live": "https://subalabs.ai/case-studies"
     }
   ]
 }
