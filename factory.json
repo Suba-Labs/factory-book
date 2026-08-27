@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 09:05 PHT",
+  "generated_at": "2026-08-27 13:09 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 21
+    "tickets_in_flight": 23
   },
   "feed": [
     {
@@ -56,6 +56,22 @@
       "id": "BOHOL-IG",
       "station": "In Progress",
       "live": "https://www.instagram.com/bohol.ai/"
+    },
+    {
+      "who": "Honey",
+      "text": "Rename Requirements tab to Data (user-facing)",
+      "id": "HHP-1262",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1262/rename-requirements-tab-to-data-user-facing",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1251"
+    },
+    {
+      "who": "Honey",
+      "text": "Rename Hub AI Insight → Patient Insight (user-facin…",
+      "id": "HHP-1261",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1261/rename-hub-ai-insight-patient-insight-user-facing",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1250"
     },
     {
       "who": "Honey",
@@ -119,21 +135,6 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1251/bug-tc-visit-reminder-noted-ack-names-wrong-patient-patient-a-confirm",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1240"
-    },
-    {
-      "who": "Honey",
-      "text": "fix TC ack patient bind (SUB-1251)",
-      "id": "HHP-PR-1240",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1251/bug-tc-visit-reminder-noted-ack-names-wrong-patient-patient-a-confirm",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1240"
-    },
-    {
-      "who": "Honey",
-      "text": "Utilization Amount & points tab (HH task rate table)",
-      "id": "HHP-1242",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1242/utilization-amount-and-points-dashboard-tab-hh-task-rate-table"
     }
   ]
 }
