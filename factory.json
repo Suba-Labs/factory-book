@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 13:26 PHT",
+  "generated_at": "2026-08-27 17:02 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 23
+    "tickets_in_flight": 24
   },
   "feed": [
     {
@@ -59,11 +59,11 @@
     },
     {
       "who": "Honey",
-      "text": "Rename Requirements tab to Data (user-facing)",
-      "id": "HHP-1262",
+      "text": "[BUG] HH Associate View JSON: wrong Home schedule a…",
+      "id": "HHP-1263",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1262/rename-requirements-tab-to-data-user-facing",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1251"
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1263/bug-hh-associate-view-json-wrong-home-schedule-attached-via-soft-ddl",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1252"
     },
     {
       "who": "Honey",
@@ -72,6 +72,14 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1261/rename-hub-ai-insight-patient-insight-user-facing",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1250"
+    },
+    {
+      "who": "Honey",
+      "text": "Rename Requirements tab to Data (user-facing)",
+      "id": "HHP-1262",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1262/rename-requirements-tab-to-data-user-facing",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1251"
     },
     {
       "who": "Honey",
@@ -128,14 +136,6 @@
       "id": "HHP-1252",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1252/bug-revenue-cycle-shows-encrypted-patientname-blob-instead-of-name"
-    },
-    {
-      "who": "Honey",
-      "text": "TC ack wrong patient (SUB-1251)",
-      "id": "HHP-1251",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1251/bug-tc-visit-reminder-noted-ack-names-wrong-patient-patient-a-confirm",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1240"
     }
   ]
 }
