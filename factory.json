@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 13:09 PHT",
+  "generated_at": "2026-08-27 13:26 PHT",
   "desks": [
     {
       "id": "honey",
@@ -103,7 +103,8 @@
       "id": "HHP-1238",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1238/billed-claimsbilled-revenue-kpi",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1242"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1242",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1243"
     },
     {
       "who": "Honey",
