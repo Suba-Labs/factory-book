@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 11:39 PHT",
+  "generated_at": "2026-08-28 12:34 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 41
+    "tickets_in_flight": 42
   },
   "feed": [
     {
@@ -104,6 +104,13 @@
     },
     {
       "who": "Honey",
+      "text": "chore(staging): mirror main frontend/backend onto s…",
+      "id": "HHP-PR-1288",
+      "station": "In Progress",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1288"
+    },
+    {
+      "who": "Honey",
       "text": "Visits Calendar banner: From Home / From extract",
       "id": "HHP-1276",
       "station": "In Progress",
@@ -133,14 +140,6 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1277/chat-about-patient-a-some-more-replace-see-more-details",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1271"
-    },
-    {
-      "who": "Honey",
-      "text": "fix(frontend): re-isolate Chat About PATIENT_A Some…",
-      "id": "HHP-PR-1285",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1277/chat-about-patient-a-some-more-replace-see-more-details",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1285"
     }
   ]
 }
