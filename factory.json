@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-08-28 22:41 PHT",
+  "generated_at": "2026-08-28 23:32 PHT",
   "desks": [
-    { "id": "honey", "glow": true },
-    { "id": "atticus", "glow": true },
-    { "id": "edna", "glow": false },
-    { "id": "kit", "glow": false },
-    { "id": "nova", "glow": false },
-    { "id": "bailey", "glow": false },
-    { "id": "luisa", "glow": false },
-    { "id": "quinn", "glow": false },
-    { "id": "mirabel", "glow": false }
+    {
+      "id": "honey",
+      "glow": true
+    },
+    {
+      "id": "atticus",
+      "glow": true
+    },
+    {
+      "id": "edna",
+      "glow": false
+    },
+    {
+      "id": "kit",
+      "glow": false
+    },
+    {
+      "id": "nova",
+      "glow": false
+    },
+    {
+      "id": "bailey",
+      "glow": false
+    },
+    {
+      "id": "luisa",
+      "glow": true
+    },
+    {
+      "id": "quinn",
+      "glow": false
+    },
+    {
+      "id": "mirabel",
+      "glow": false
+    }
   ],
   "metrics": {
-    "agents_online": 2,
-    "tickets_in_flight": 50
+    "agents_online": 3,
+    "tickets_in_flight": 56
   },
   "feed": [
+    {
+      "who": "Honey",
+      "text": "BAA Exhibit B + Privacy: list real Suba-side PHI su…",
+      "id": "HHP-1291",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1291/baa-exhibit-b-privacy-list-real-suba-side-phi-subprocessors-and",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1302",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1307"
+    },
     {
       "who": "Honey",
       "text": "fix(schedules): workload 4-col + weekly openings zi…",
@@ -69,25 +105,11 @@
     },
     {
       "who": "Honey",
-      "text": "feat(agent): Inovalon Claims Paid detail extract + …",
-      "id": "HHP-PR-1303",
-      "station": "In Progress",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1303"
-    },
-    {
-      "who": "Atticus",
-      "text": "Weak PCs default Fast 3B chat-only; never auto-pull…",
-      "id": "ADLAW-1293",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1293/weak-pcs-default-fast-3b-chat-only-never-auto-pull-club32b"
-    },
-    {
-      "who": "Honey",
-      "text": "BAA Exhibit B + Privacy: list real Suba-side PHI su…",
-      "id": "HHP-1291",
+      "text": "Promote staging → main: SUB-1291 BAA Exhibit B + Pr…",
+      "id": "HHP-PR-1307",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1291/baa-exhibit-b-privacy-list-real-suba-side-phi-subprocessors-and",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1302"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1307"
     },
     {
       "who": "Honey",
@@ -99,19 +121,26 @@
     },
     {
       "who": "Honey",
-      "text": "fix(hub): 3-beat last-2-weeks uses Pacific calendar…",
-      "id": "HHP-PR-1301",
+      "text": "feat(sync): persist census serviceNotes date+discip…",
+      "id": "HHP-PR-1306",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1301"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1306"
     },
     {
       "who": "Honey",
-      "text": "fix(hub): 3-beat hospitalStatus, visit dedupe, note…",
-      "id": "HHP-PR-1300",
+      "text": "fix(frontend): restore HH Associate files broken by…",
+      "id": "HHP-PR-1295",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1300"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1295"
+    },
+    {
+      "who": "Honey",
+      "text": "feat: Inovalon Paid Claims extract, store, and Reve…",
+      "id": "HHP-PR-1304",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1241/inovalon-paid",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1304"
     }
   ],
   "done": [
