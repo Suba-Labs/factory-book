@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 15:14 PHT",
+  "generated_at": "2026-08-28 15:59 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 44
+    "tickets_in_flight": 46
   },
   "feed": [
     {
@@ -112,10 +112,25 @@
     },
     {
       "who": "Honey",
-      "text": "PR #1293 staging\u2192main promote (title Staging) — wor…",
+      "text": "PR #1293 staging→main promote (title Staging) — wor…",
       "id": "HHP-PR-1293",
       "station": "In Progress",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1293"
+    },
+    {
+      "who": "Honey",
+      "text": "Schedules: hide extract JSON viewers from customers…",
+      "id": "HHP-1288",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1288/schedules-hide-extract-json-viewers-from-customers-gate-to",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1296"
+    },
+    {
+      "who": "Honey",
+      "text": "feat(seed): RIVERSIDE associates for Schedules Work…",
+      "id": "HHP-PR-1297",
+      "station": "In Progress",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1297"
     },
     {
       "who": "Honey",
@@ -123,22 +138,6 @@
       "id": "HHP-PR-1295",
       "station": "In Progress",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1295"
-    },
-    {
-      "who": "Honey",
-      "text": "Docs: operator-owned feature branch prefix (stop ha…",
-      "id": "HHP-1287",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1287/docs-operator-owned-feature-branch-prefix-stop-hardcoding-kyle",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1294"
-    },
-    {
-      "who": "Honey",
-      "text": "Schedules verbs: Get staff / Home staff / Show data",
-      "id": "HHP-1273",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1273/schedules-verbs-get-staff-home-staff-show-data",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1267"
     }
   ]
 }
