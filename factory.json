@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 17:07 PHT",
+  "generated_at": "2026-08-28 22:26 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 46
+    "tickets_in_flight": 48
   },
   "feed": [
     {
@@ -80,15 +80,6 @@
     },
     {
       "who": "Honey",
-      "text": "Rename Requirements tab to Data (user-facing)",
-      "id": "HHP-1262",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1262/rename-requirements-tab-to-data-user-facing",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1251",
-      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1259"
-    },
-    {
-      "who": "Honey",
       "text": "Billed Claims/Billed Revenue KPI",
       "id": "HHP-1238",
       "station": "In Progress",
@@ -104,6 +95,38 @@
       "live": "https://www.instagram.com/bohol.ai/"
     },
     {
+      "who": "Honey",
+      "text": "BAA Exhibit B + Privacy: list real Suba-side PHI su…",
+      "id": "HHP-1291",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1291/baa-exhibit-b-privacy-list-real-suba-side-phi-subprocessors-and",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1302"
+    },
+    {
+      "who": "Honey",
+      "text": "Sept 15: 3-beat Patient Insight (Current / Medical …",
+      "id": "HHP-1289",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1299"
+    },
+    {
+      "who": "Honey",
+      "text": "fix(hub): 3-beat last-2-weeks uses Pacific calendar…",
+      "id": "HHP-PR-1301",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1301"
+    },
+    {
+      "who": "Honey",
+      "text": "fix(hub): 3-beat hospitalStatus, visit dedupe, note…",
+      "id": "HHP-PR-1300",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1300"
+    },
+    {
       "who": "Atticus",
       "text": "Publish Adlaw v0.1.104 Mac+Windows",
       "id": "ADLAW-104",
@@ -117,28 +140,6 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1265/point-club-download-copy-at-published-v01103-not-draft-104",
       "pr": "https://github.com/BOHOL-AI-CLUB/BoholAI-Harness/pull/514"
-    },
-    {
-      "who": "Honey",
-      "text": "PR #1293 staging→main promote (title Staging) — wor…",
-      "id": "HHP-PR-1293",
-      "station": "In Progress",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1293"
-    },
-    {
-      "who": "Honey",
-      "text": "Schedules: hide extract JSON viewers from customers…",
-      "id": "HHP-1288",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1288/schedules-hide-extract-json-viewers-from-customers-gate-to",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1296"
-    },
-    {
-      "who": "Honey",
-      "text": "feat(seed): RIVERSIDE associates for Schedules Work…",
-      "id": "HHP-PR-1297",
-      "station": "In Progress",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1297"
     }
   ]
 }
