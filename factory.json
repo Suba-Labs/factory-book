@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 22:26 PHT",
+  "generated_at": "2026-08-28 22:33 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 48
+    "tickets_in_flight": 49
   },
   "feed": [
     {
@@ -95,6 +95,13 @@
       "live": "https://www.instagram.com/bohol.ai/"
     },
     {
+      "who": "Atticus",
+      "text": "Weak PCs default Fast 3B chat-only; never auto-pull…",
+      "id": "ADLAW-1293",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1293/weak-pcs-default-fast-3b-chat-only-never-auto-pull-club32b"
+    },
+    {
       "who": "Honey",
       "text": "BAA Exhibit B + Privacy: list real Suba-side PHI su…",
       "id": "HHP-1291",
@@ -132,14 +139,6 @@
       "id": "ADLAW-104",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1182"
-    },
-    {
-      "who": "Atticus",
-      "text": "Point club download copy at published v0.1.103",
-      "id": "ADLAW-1265",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1265/point-club-download-copy-at-published-v01103-not-draft-104",
-      "pr": "https://github.com/BOHOL-AI-CLUB/BoholAI-Harness/pull/514"
     }
   ]
 }
