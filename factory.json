@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 02:27 PHT",
+  "generated_at": "2026-08-28 08:08 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 35
+    "tickets_in_flight": 37
   },
   "feed": [
     {
@@ -56,6 +56,22 @@
       "id": "BOHOL-IG",
       "station": "In Progress",
       "live": "https://www.instagram.com/bohol.ai/"
+    },
+    {
+      "who": "Honey",
+      "text": "Data tab Sources: leftover hash must not steal the …",
+      "id": "HHP-1281",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1281/data-tab-sources-leftover-hash-must-not-steal-the-open-row-after-save",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1275"
+    },
+    {
+      "who": "Honey",
+      "text": "Data tab Sources: Fix sign-in must not restart a li…",
+      "id": "HHP-1280",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1280/data-tab-sources-fix-sign-in-must-not-restart-a-live-connect",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1274"
     },
     {
       "who": "Honey",
@@ -121,24 +137,6 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1264/map-careficient-home-category-colors-to-verifiedassignedunassigned-in",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1264"
-    },
-    {
-      "who": "Honey",
-      "text": "Hub: rename Missing DX card to Pending / Missing Dx…",
-      "id": "HHP-1270",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1270",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1262",
-      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1263"
-    },
-    {
-      "who": "Honey",
-      "text": "Rename Hub AI Insight → Patient Insight (user-facin…",
-      "id": "HHP-1261",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1261/rename-hub-ai-insight-patient-insight-user-facing",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1250",
-      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1259"
     }
   ]
 }
