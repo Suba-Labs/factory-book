@@ -1,46 +1,19 @@
 {
-  "generated_at": "2026-08-28 22:33 PHT",
+  "generated_at": "2026-08-28 22:41 PHT",
   "desks": [
-    {
-      "id": "honey",
-      "glow": true
-    },
-    {
-      "id": "atticus",
-      "glow": true
-    },
-    {
-      "id": "edna",
-      "glow": false
-    },
-    {
-      "id": "kit",
-      "glow": false
-    },
-    {
-      "id": "nova",
-      "glow": false
-    },
-    {
-      "id": "bailey",
-      "glow": false
-    },
-    {
-      "id": "luisa",
-      "glow": false
-    },
-    {
-      "id": "quinn",
-      "glow": false
-    },
-    {
-      "id": "mirabel",
-      "glow": false
-    }
+    { "id": "honey", "glow": true },
+    { "id": "atticus", "glow": true },
+    { "id": "edna", "glow": false },
+    { "id": "kit", "glow": false },
+    { "id": "nova", "glow": false },
+    { "id": "bailey", "glow": false },
+    { "id": "luisa", "glow": false },
+    { "id": "quinn", "glow": false },
+    { "id": "mirabel", "glow": false }
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 49
+    "tickets_in_flight": 50
   },
   "feed": [
     {
@@ -95,6 +68,13 @@
       "live": "https://www.instagram.com/bohol.ai/"
     },
     {
+      "who": "Honey",
+      "text": "feat(agent): Inovalon Claims Paid detail extract + …",
+      "id": "HHP-PR-1303",
+      "station": "In Progress",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1303"
+    },
+    {
       "who": "Atticus",
       "text": "Weak PCs default Fast 3B chat-only; never auto-pull…",
       "id": "ADLAW-1293",
@@ -132,13 +112,100 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1300"
+    }
+  ],
+  "done": [
+    {
+      "who": "Honey",
+      "text": "Revert dump #1260 off main (GitHub #1261 ≠ SUB-1261)",
+      "id": "HHP-PR-1261-REVERT",
+      "station": "Done",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1261"
     },
     {
-      "who": "Atticus",
-      "text": "Publish Adlaw v0.1.104 Mac+Windows",
-      "id": "ADLAW-104",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1182"
+      "who": "Honey",
+      "text": "PR #1249 staging→main promote (title Staging)",
+      "id": "HHP-PR-1249",
+      "station": "Done",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1249"
+    },
+    {
+      "who": "Honey",
+      "text": "PR #1248 Careficient Invoice Date To today → lab",
+      "id": "HHP-PR-1248",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1260/lab-ar-invoice-date-to-today-agent-extract",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1248"
+    },
+    {
+      "who": "Honey",
+      "text": "PR #1247 A/R invoices auto sync + active episodes →…",
+      "id": "HHP-PR-1247",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1259/revenue-cycle-ar-invoices-auto-sync-active-episodes-breakdown",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1247"
+    },
+    {
+      "who": "Honey",
+      "text": "Rename Requirements tab to Data (user-facing)",
+      "id": "HHP-1262",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1262/rename-requirements-tab-to-data-user-facing",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1251",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1259"
+    },
+    {
+      "who": "Honey",
+      "text": "Docs: operator-owned feature branch prefix (stop ha…",
+      "id": "HHP-1287",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1287/docs-operator-owned-feature-branch-prefix-stop-hardcoding-kyle",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1294"
+    },
+    {
+      "who": "Honey",
+      "text": "chore(staging): full mirror main — zero diff vs mai…",
+      "id": "HHP-PR-1289",
+      "station": "Done",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1289"
+    },
+    {
+      "who": "Honey",
+      "text": "PR #1290 staging->main empty no-op (title Staging)",
+      "id": "HHP-PR-1290",
+      "station": "Done",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1290"
+    },
+    {
+      "who": "Honey",
+      "text": "revert: take SUB-1276/1277/1273 copy isolates off m…",
+      "id": "HHP-PR-1284",
+      "station": "Done",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1284"
+    },
+    {
+      "who": "Luisa",
+      "text": "zip bundled factory.json lags remote",
+      "id": "FACTORY-ZIP-BOOK-STALE",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1284/factory-zip-book-stale-zip-bundled-factoryjson-lags-remote",
+      "live": "https://sf.subalabs.ai"
+    },
+    {
+      "who": "Luisa",
+      "text": "one SoT for weekday publisher path",
+      "id": "FACTORY-PUBLISH-RUNNER",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1285/factory-publish-runner-one-sot-for-weekday-publisher-path",
+      "live": "https://sf.subalabs.ai"
+    },
+    {
+      "who": "Luisa",
+      "text": "12-cap hides dual-chip / in-flight rows",
+      "id": "FACTORY-FEED-OVERFLOW",
+      "station": "Done",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1282/factory-feed-overflow-12-cap-hides-dual-chip-in-flight-rows",
+      "live": "https://sf.subalabs.ai"
     }
   ]
 }
