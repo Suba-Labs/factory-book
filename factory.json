@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 14:27 PHT",
+  "generated_at": "2026-08-28 15:02 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,9 +40,17 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 43
+    "tickets_in_flight": 42
   },
   "feed": [
+    {
+      "who": "Honey",
+      "text": "fix(schedules): workload 4-col + weekly openings zi…",
+      "id": "HHP-PR-1292",
+      "station": "In Progress",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1292",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1293"
+    },
     {
       "who": "Honey",
       "text": "Desktop nav labels match mobile (Overview/Pulse/Rev…",
@@ -103,6 +111,21 @@
       "live": "https://www.instagram.com/bohol.ai/"
     },
     {
+      "who": "Honey",
+      "text": "Schedules verbs: Get staff / Home staff / Show data",
+      "id": "HHP-1273",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1273/schedules-verbs-get-staff-home-staff-show-data",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1267"
+    },
+    {
+      "who": "Honey",
+      "text": "PR #1293 staging→main promote (title Staging) — wor…",
+      "id": "HHP-PR-1293",
+      "station": "In Progress",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1293"
+    },
+    {
       "who": "Atticus",
       "text": "Point club download copy at published v0.1.103",
       "id": "ADLAW-1265",
@@ -117,30 +140,6 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1286/sync-staging-febe-tree-to-main-baseline",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1288"
-    },
-    {
-      "who": "Honey",
-      "text": "Sync staging FE/BE tree to main baseline",
-      "id": "HHP-1286",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1286/sync-staging-febe-tree-to-main-baseline",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1288"
-    },
-    {
-      "who": "Honey",
-      "text": "Visits Calendar banner: From Home / From extract",
-      "id": "HHP-1276",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1276/visits-calendar-banner-from-home-from-extract",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1270"
-    },
-    {
-      "who": "Honey",
-      "text": "fix(frontend): re-isolate Visits Calendar banner Fr…",
-      "id": "HHP-PR-1287",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1276/visits-calendar-banner-from-home-from-extract",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1287"
     }
   ]
 }
