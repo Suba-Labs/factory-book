@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 09:12 PHT",
+  "generated_at": "2026-08-28 11:39 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 2,
-    "tickets_in_flight": 39
+    "tickets_in_flight": 41
   },
   "feed": [
     {
@@ -104,25 +104,19 @@
     },
     {
       "who": "Honey",
-      "text": "fix: restore fetchArInvoicesAutoStatus after #1278 …",
-      "id": "HHP-PR-1279",
+      "text": "Visits Calendar banner: From Home / From extract",
+      "id": "HHP-1276",
       "station": "In Progress",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1279"
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1276/visits-calendar-banner-from-home-from-extract",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1270"
     },
     {
       "who": "Honey",
-      "text": "fix: restore fetchArInvoicesAutoStatus onto staging…",
-      "id": "HHP-PR-1280",
+      "text": "fix(frontend): re-isolate Visits Calendar banner Fr…",
+      "id": "HHP-PR-1287",
       "station": "In Progress",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1280"
-    },
-    {
-      "who": "Honey",
-      "text": "Chat About PATIENT_A Some More (replace See More De…",
-      "id": "HHP-1277",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1277/chat-about-patient-a-some-more-replace-see-more-details",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1271"
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1276/visits-calendar-banner-from-home-from-extract",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1287"
     },
     {
       "who": "Honey",
@@ -134,11 +128,19 @@
     },
     {
       "who": "Honey",
-      "text": "Visits Calendar banner: From Home / From extract",
-      "id": "HHP-1276",
+      "text": "Chat About PATIENT_A Some More (replace See More De…",
+      "id": "HHP-1277",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1276/visits-calendar-banner-from-home-from-extract",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1270"
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1277/chat-about-patient-a-some-more-replace-see-more-details",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1271"
+    },
+    {
+      "who": "Honey",
+      "text": "fix(frontend): re-isolate Chat About PATIENT_A Some…",
+      "id": "HHP-PR-1285",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1277/chat-about-patient-a-some-more-replace-see-more-details",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1285"
     }
   ]
 }
