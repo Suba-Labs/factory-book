@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 23:32 PHT",
+  "generated_at": "2026-08-29 12:05 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,7 +40,7 @@
   ],
   "metrics": {
     "agents_online": 3,
-    "tickets_in_flight": 56
+    "tickets_in_flight": 59
   },
   "feed": [
     {
@@ -105,11 +105,27 @@
     },
     {
       "who": "Honey",
-      "text": "Promote staging → main: SUB-1291 BAA Exhibit B + Pr…",
-      "id": "HHP-PR-1307",
+      "text": "fix(agent): Connect unknown — restore TC probe + re…",
+      "id": "HHP-PR-1312",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1291/baa-exhibit-b-privacy-list-real-suba-side-phi-subprocessors-and",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1307"
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1290/data-connect-inovalonvonage-fail-with-opaque-connect-ended-unknown",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1312"
+    },
+    {
+      "who": "Honey",
+      "text": "Data Connect: Inovalon/Vonage fail with opaque \"Con…",
+      "id": "HHP-1290",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1290/data-connect-inovalonvonage-fail-with-opaque-connect-ended-unknown",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1312"
+    },
+    {
+      "who": "Honey",
+      "text": "feat(agent): census serviceNotes date+discipline pa…",
+      "id": "HHP-PR-1308",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1308"
     },
     {
       "who": "Honey",
@@ -126,21 +142,6 @@
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1306"
-    },
-    {
-      "who": "Honey",
-      "text": "fix(frontend): restore HH Associate files broken by…",
-      "id": "HHP-PR-1295",
-      "station": "In Progress",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1295"
-    },
-    {
-      "who": "Honey",
-      "text": "feat: Inovalon Paid Claims extract, store, and Reve…",
-      "id": "HHP-PR-1304",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1241/inovalon-paid",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1304"
     }
   ],
   "done": [
