@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 12:05 PHT",
+  "generated_at": "2026-08-29 18:37 PHT",
   "desks": [
     {
       "id": "honey",
@@ -40,9 +40,36 @@
   ],
   "metrics": {
     "agents_online": 3,
-    "tickets_in_flight": 59
+    "tickets_in_flight": 63
   },
   "feed": [
+    {
+      "who": "Honey",
+      "text": "Schedules: weekly openings default, hide associates…",
+      "id": "HHP-1296",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1296/schedules-weekly-openings-default-hide-associates-automation-from",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1315",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1316"
+    },
+    {
+      "who": "Honey",
+      "text": "feat(schedules): Weekly Openings default + hide ass…",
+      "id": "HHP-PR-1315",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1296/schedules-weekly-openings-default-hide-associates-automation-from",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1315",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1316"
+    },
+    {
+      "who": "Honey",
+      "text": "feat(sync): persist census serviceNotes date+discip…",
+      "id": "HHP-PR-1306",
+      "station": "In Progress",
+      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1306",
+      "pr_main": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1314"
+    },
     {
       "who": "Honey",
       "text": "BAA Exhibit B + Privacy: list real Suba-side PHI su…",
@@ -105,43 +132,17 @@
     },
     {
       "who": "Honey",
-      "text": "fix(agent): Connect unknown — restore TC probe + re…",
-      "id": "HHP-PR-1312",
+      "text": "Promote staging → main: SUB-349 / SUB-480 / SUB-127…",
+      "id": "HHP-PR-1314",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1290/data-connect-inovalonvonage-fail-with-opaque-connect-ended-unknown",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1312"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1314"
     },
     {
       "who": "Honey",
-      "text": "Data Connect: Inovalon/Vonage fail with opaque \"Con…",
-      "id": "HHP-1290",
+      "text": "Promote staging → main (hold #1306 out): SUB-349 / …",
+      "id": "HHP-PR-1316",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1290/data-connect-inovalonvonage-fail-with-opaque-connect-ended-unknown",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1312"
-    },
-    {
-      "who": "Honey",
-      "text": "feat(agent): census serviceNotes date+discipline pa…",
-      "id": "HHP-PR-1308",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1308"
-    },
-    {
-      "who": "Honey",
-      "text": "Sept 15: 3-beat Patient Insight (Current / Medical …",
-      "id": "HHP-1289",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1299"
-    },
-    {
-      "who": "Honey",
-      "text": "feat(sync): persist census serviceNotes date+discip…",
-      "id": "HHP-PR-1306",
-      "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1289/sept-15-3-beat-patient-insight-current-medical-event-baseline",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1306"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1316"
     }
   ],
   "done": [
