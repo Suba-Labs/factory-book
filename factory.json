@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 10:12 PHT",
+  "generated_at": "2026-08-31 10:14 PHT",
   "desks": [
     {
       "id": "honey",
@@ -27,7 +27,7 @@
     },
     {
       "id": "luisa",
-      "glow": true
+      "glow": false
     },
     {
       "id": "quinn",
@@ -39,8 +39,8 @@
     }
   ],
   "metrics": {
-    "agents_online": 3,
-    "tickets_in_flight": 62
+    "agents_online": 2,
+    "tickets_in_flight": 61
   },
   "feed": [
     {
@@ -132,16 +132,15 @@
     },
     {
       "who": "Honey",
-      "text": "Lab: poll_only YES already in snapshot is not timed…",
-      "id": "HHP-1209",
+      "text": "Promote staging → main: SUB-349 / SUB-480 / SUB-127…",
+      "id": "HHP-PR-1314",
       "station": "In Progress",
-      "linear": "https://linear.app/suba-labs-ai/issue/SUB-1209/lab-chromium-disconnect-mid-poll-only-blocks-yesno-aerol-notify",
-      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1318"
+      "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1314"
     },
     {
       "who": "Honey",
-      "text": "fix(agent): poll_only YES already in snapshot is no…",
-      "id": "HHP-PR-1318",
+      "text": "Lab: poll_only YES already in snapshot is not timed…",
+      "id": "HHP-1209",
       "station": "In Progress",
       "linear": "https://linear.app/suba-labs-ai/issue/SUB-1209/lab-chromium-disconnect-mid-poll-only-blocks-yesno-aerol-notify",
       "pr": "https://github.com/Suba-Labs/HomeHealthPulse/pull/1318"
